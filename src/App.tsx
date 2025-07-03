@@ -286,7 +286,7 @@ function App() {
                 backInfo: {
                   condition: "Exceptional",
                   provenance: "Royal Library",
-                  certification: "Islamic Art Institute",
+                  
                   rarity: "Museum Piece"
                 }
               },
