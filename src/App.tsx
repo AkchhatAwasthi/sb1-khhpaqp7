@@ -282,7 +282,7 @@ function App() {
                 image: "https://beinecke.library.yale.edu/sites/default/files/styles/opengraph_image/public/kulliyat.jpg?itok=K2muFzG2",
                 title: "Persian Manuscript",
                 description: "Illuminated Calligraphy, 16th Century",
-                price: "$15,500",
+                
                 backInfo: {
                   condition: "Exceptional",
                   provenance: "Royal Library",
